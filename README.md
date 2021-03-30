@@ -1,2 +1,2 @@
 # Cat-Pics
-Picks of cats
+Pics of cats
